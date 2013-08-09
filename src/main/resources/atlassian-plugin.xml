@@ -28,7 +28,7 @@
         <context>atl.admin</context>
     </web-resource>
 
-    <project-blueprint key="my-project-template" weight="30">
+    <project-blueprint key="my-project-template" weight="90">
         <label key="my.project.template.name"/>
         <description key="my.project.template.description"/>
         <longDescription key="my.project.template.description.long"/>

@@ -28,7 +28,7 @@
         <dependency>
             <groupId>com.atlassian.jira.plugins</groupId>
             <artifactId>project-templates-api</artifactId>
-            <version>2.17</version>
+            <version>${project.templates.version}</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -62,10 +62,9 @@
     </build>
 
     <properties>
-        <jira.version>6.1-20130807.140908</jira.version>
+        <jira.version>6.0.7</jira.version>
+        <project.templates.version>2.18</project.templates.version>
         <amps.version>4.1.7</amps.version>
-        <plugin.testrunner.version>1.1.1</plugin.testrunner.version>
-		<testkit.version>5.2.26</testkit.version>
     </properties>
 
 </project>

@@ -1,10 +1,10 @@
 package com.example.plugins.tutorial;
 
-import com.atlassian.jira.blueprint.spi.AddProjectHook;
-import com.atlassian.jira.blueprint.spi.ConfigureData;
-import com.atlassian.jira.blueprint.spi.ConfigureResponse;
-import com.atlassian.jira.blueprint.spi.ValidateData;
-import com.atlassian.jira.blueprint.spi.ValidateResponse;
+import com.atlassian.jira.blueprint.api.AddProjectHook;
+import com.atlassian.jira.blueprint.api.ConfigureData;
+import com.atlassian.jira.blueprint.api.ConfigureResponse;
+import com.atlassian.jira.blueprint.api.ValidateData;
+import com.atlassian.jira.blueprint.api.ValidateResponse;
 
 public class MyAddProjectHook implements AddProjectHook
 {

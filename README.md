@@ -1,7 +1,7 @@
 # Tutorial: Creating a project template
 
 This sample plugin demonstrates how to create a custom project template plugin 
-for JIRA 6.0.7 and later. For a full discussion of this sample, see the tutorial at: 
+for Jira 6.0.7 and later. For a full discussion of this sample, see the tutorial at: 
 [Tutorial - Creating a project template][1].
 
 ## Running locally

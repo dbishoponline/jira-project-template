@@ -15,7 +15,7 @@
     </organization>
 
     <name>my-project-template</name>
-    <description>This is the Project Template plugin tutorial for Atlassian JIRA.</description>
+    <description>This is the Project Template plugin tutorial for Atlassian Jira.</description>
     <packaging>atlassian-plugin</packaging>
 
     <dependencies>

@@ -1,0 +1,6 @@
+# Build files
+/target
+
+# Temp files
+.*.sw[a-p]
+*~
